@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "229549580240",
+    "project_id": "firetest-8b5b7",
+    "storage_bucket": "firetest-8b5b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229549580240:android:daf8b23056fca2f49ce3d5",
+        "android_client_info": {
+          "package_name": "com.kassam.theattic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229549580240-psa7v97c3sg7e4tdqi0vcb3csfic9j7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk0mRf5w9cmhBbrz0K58DBY_6nu6JWKqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229549580240-psa7v97c3sg7e4tdqi0vcb3csfic9j7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
