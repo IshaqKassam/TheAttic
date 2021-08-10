@@ -1,28 +1,19 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name="Theme.TheAttic" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+<resources>
 
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
-        <!-- Status bar color. -->
-        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
-        <!-- Customize your theme here. -->
     </style>
-
-    <style name="Theme.TheAttic.NoActionBar">
-        <item name="windowActionBar">false</item>
-        <item name="windowNoTitle">true</item>
-    </style>
-
-    <style name="Theme.TheAttic.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
-
-    <style name="Theme.TheAttic.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
     <style name="app_title">
-<!--        <item name="android:fontFamily">@font/amsterdam</item>-->
+        <item name="android:fontFamily">@font/amsterdam</item>
         <item name="android:textColor">@color/gold</item>
         <item name="android:textSize">17sp</item>
     </style>
+
 </resources>
