@@ -4,7 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/ishaq/AndroidStudioProjects/TheAttic/app/src/main/res/drawable/action_button_style.xml" value="0.11145833333333334" />
+        <entry key="..\:/Users/ishaq/AndroidStudioProjects/TheAttic/app/src/main/res/layout/activity_login.xml" value="0.19010416666666666" />
         <entry key="..\:/Users/ishaq/AndroidStudioProjects/TheAttic/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ishaq/AndroidStudioProjects/TheAttic/app/src/main/res/layout/activity_post.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ishaq/AndroidStudioProjects/TheAttic/app/src/main/res/layout/activity_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ishaq/AndroidStudioProjects/TheAttic/app/src/main/res/layout/activity_register.xml" value="0.12864583333333332" />
+        <entry key="..\:/Users/ishaq/AndroidStudioProjects/TheAttic/app/src/main/res/layout/activity_single_post.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ishaq/AndroidStudioProjects/TheAttic/app/src/main/res/layout/card_items.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ishaq/AndroidStudioProjects/TheAttic/app/src/main/res/layout/comment_item.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/ishaq/AndroidStudioProjects/TheAttic/app/src/main/res/layout/content_main.xml" value="0.1" />
         <entry key="..\:/Users/ishaq/AndroidStudioProjects/TheAttic/app/src/main/res/menu/menu_main.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/ishaq/AndroidStudioProjects/TheAttic/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.11197916666666667" />
